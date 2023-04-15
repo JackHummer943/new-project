@@ -168,6 +168,15 @@ font-weight: 700;
 font-size: 28px;
 line-height: 39px;
 }
-
+@media (min-width: 2000px) { 
+  .second_block {
+    position: absolute;
+    width: 2000px;
+    height: 850px;
+    left: 0px;
+    top: 820px;
+    background: #5E4F47;
+}
+ }
 
 </style>

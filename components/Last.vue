@@ -10,7 +10,7 @@
     </div>
 </template>
 <style>
-.third_block{
+.last_block{
   /* Rectangle 3003 */
 
 
@@ -21,5 +21,16 @@ left: 0px;
 top: 2725px;
 
 background: #6EA03F;
+}
+
+@media (min-width: 2000px) { 
+.last_block {
+    position: absolute;
+    width: 2000px;
+    height: 680px;
+    left: 0px;
+    top: 2725px;
+    background: #6EA03F;
+}
 }
 </style>
