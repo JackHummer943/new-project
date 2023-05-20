@@ -541,8 +541,6 @@ line-height: 78px;
 color: #5E4F47;
 }
 h3{
-width: 542px;
-height: 156px;
 top: 246px;
 
 font-family: 'Montserrat Alternates';
