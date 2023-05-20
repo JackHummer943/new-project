@@ -215,7 +215,7 @@ h2{
 }
 h5{
   position:absolute;
-  right: 130px;
+  right: 90px;
   font-family: 'Montserrat Alternates';
     font-style: normal;
     font-weight: 700;
